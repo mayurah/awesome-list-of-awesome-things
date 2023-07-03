@@ -7,6 +7,11 @@ This awesome list aims to curate the all awesome lists that I and contributors h
 
 Well, funny I found https://project-awesome.org/ while building this. Let's see how this two efforts may complement each other.
 
+## Initiatives focused on Awesome by GitHaber
+- https://github.com/sindresorhus/awesome
+
+
+
 ## Data Science
 - https://github.com/krzjoa/awesome-python-data-science/tree/f710ae6e5f2ba92ba8fa0ebfc98b83b7bda826c9
 
@@ -17,6 +22,10 @@ Well, funny I found https://project-awesome.org/ while building this. Let's see 
 - https://github.com/webpro/awesome-dotfiles
 - https://github.com/gabrielelana/awesome-terminal-fonts
 - https://project-awesome.org/webpro/awesome-dotfiles
+
+## Github
+- https://www.gistoapp.com/#download
+- https://github.com/topics/awesome
 
 
 ## Contributors
